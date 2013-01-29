@@ -45,5 +45,24 @@ body a:hover {
 	width: 710px;
 	background-color: #DDDDDD;
 	border-radius: 5px;
-	padding: 0px 10px 0px 0px;
+	padding: 0px 30px 0px 0px;
+	padding: 10px;
+}
+
+.user table {
+	margin-top: 25px;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.company table {
+	margin-top: 25px;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.company td {
+	padding: 3px;
 }

@@ -1,5 +1,5 @@
 <h1>Vad är Dexiti?</h1>
-<p>Du startar som en vanlig person som har små kunskaper inom Webbdesign, Programmering, Servrar, Nätverk och marknadsföring. Du har sparat ihop för att du ville skapa ditt egna företag innm webb, men du måste spendera pengarna rätt för att lyckas.</p>
+<p>Du startar som en vanlig person som har små kunskaper inom Webbdesign, Programmering, Servrar, Nätverk och marknadsföring. Du har sparat ihop för att du ville skapa ditt egna företag inom webb, men du måste spendera pengarna rätt för att lyckas.</p>
 <p>Du kanske vill försörja dig själv på att göra hemsidor? Eller skapa ett webbhotell där du erbjuder plats till dina kunder? Dexiti är platsen där du kan det som du alltid ville och se hur bra du kan klara dig.</p>
 <p>För att överleva bättre på marknaden så kan du skapa ett företag där andra spelare kan arbeta med dig och så kan ni lyckas göra något större tillsammans. Ett företag kan sprida sig över hela världen och finnas i många länder där det kan finns kunder.</p>
 <p>För att skapa ett webbhotell så behöver man servrar i en serverhall någonstans i världen som man lägger alla sina kunder på och när en server blir full eller överbelastad så behöver man köpa in flera. Om din serverhall blir full så måste du också bygga ut den också eller bygga en till antigen i samma land eller i något annat land.</p>
