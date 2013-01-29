@@ -1,0 +1,2 @@
+<h1>Välkommen till Dexiti!</h1>
+<p>Undrar du vad spelet handlar om så läs detta <a href="?page=about">här</a>, är du här för att registrera dig för att få tillgång till försa betan så gör du det <a href="?page=register">här</a>.</p>

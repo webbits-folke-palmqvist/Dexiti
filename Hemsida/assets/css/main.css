@@ -1,0 +1,49 @@
+.clear {
+	clear: both;
+}
+
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: #333333;
+}
+
+body a {
+	color: #0088cc;
+	text-decoration: none;
+}
+
+body a:hover {
+	color: #005580;
+  	text-decoration: underline;
+}
+
+.warp {
+	width: 940px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #DDDDDD;
+	border-radius: 5px;
+}
+
+.navbar {
+	float: left;
+	width: 200px;
+	background-color: #DDDDDD;
+	border-radius: 5px;
+}
+
+.navbar ul {
+	list-style-type: none;
+}
+
+.navbar li {
+	padding: 5px;
+}
+
+.content {
+	float: right;
+	width: 710px;
+	background-color: #DDDDDD;
+	border-radius: 5px;
+	padding: 0px 10px 0px 0px;
+}
